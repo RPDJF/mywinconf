@@ -24,3 +24,9 @@ if (!$WSL_LIST.Contains("Ubuntu")) {
 # Install apps
 Write-Host "Installing Ubuntu apps..." -ForegroundColor Yellow
 wsl -d Ubuntu -e bash ./configs/wsl_config.sh
+if ($?) {
+	Write-Host "Ubuntu apps installed successfully" -ForegroundColor Green
+} else {
+	Write-Host "Ubuntu apps installation failed" -ForegroundColor Red
+	exit
+}
