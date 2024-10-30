@@ -1,0 +1,22 @@
+[
+    {
+        "name": "which",
+        "id": "GnuWin32.Which"
+    },
+    {
+        "name": "gsudo",
+        "id": "gerardog.gsudo"
+    },
+    {
+        "name": "git",
+        "id": "Git.Git"
+    },
+    {
+        "name": "nvm",
+        "id": "CoreyButler.NVMforWindows"
+    },
+	{
+		"name": "neofetch",
+		"id": "nepnep.neofetch-win"
+	}
+]
