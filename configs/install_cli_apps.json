@@ -18,5 +18,9 @@
 	{
 		"name": "neofetch",
 		"id": "nepnep.neofetch-win"
+	},
+	{
+		"name": "powershell core",
+		"id": "Microsoft.Powershell"
 	}
 ]

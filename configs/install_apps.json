@@ -14,5 +14,17 @@
 			"-e",
 			"--ignore-security-hash"
 		]
+	},
+	{
+		"name": "Everything",
+		"id": "voidtools.Everything"
+	},
+	{
+		"name": "PowerToys",
+		"id": "Microsoft.Powertoys"
+	},
+	{
+		"name": "EverythingPowerToys",
+		"id": "lin-ycv.EverythingPowerToys"
 	}
 ]
